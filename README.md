@@ -1,2 +1,4 @@
-# php-mysql-phpmyadmin-docker
-php-mysql-phpmyadmin-docker
+
+$ docker compose up --build
+$docker compose build
+$docker compose up
